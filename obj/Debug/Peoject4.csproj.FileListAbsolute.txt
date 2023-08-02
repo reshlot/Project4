@@ -1,0 +1,8 @@
+D:\Simplilearn\Main Projects\Peoject4\Peoject4\obj\Debug\Peoject4.csproj.AssemblyReference.cache
+D:\Simplilearn\Main Projects\Peoject4\Peoject4\obj\Debug\Peoject4.csproj.SuggestedBindingRedirects.cache
+D:\Simplilearn\Main Projects\Peoject4\Peoject4\obj\Debug\Peoject4.csproj.CoreCompileInputs.cache
+D:\Simplilearn\Main Projects\Peoject4\Peoject4\bin\Debug\Peoject4.exe.config
+D:\Simplilearn\Main Projects\Peoject4\Peoject4\bin\Debug\Peoject4.exe
+D:\Simplilearn\Main Projects\Peoject4\Peoject4\bin\Debug\Peoject4.pdb
+D:\Simplilearn\Main Projects\Peoject4\Peoject4\obj\Debug\Peoject4.exe
+D:\Simplilearn\Main Projects\Peoject4\Peoject4\obj\Debug\Peoject4.pdb
